@@ -24,4 +24,15 @@ This repository gathers computational physics and numerical modeling projects de
 
 ## Author
 Victor Oliveira
+
 Physics researcher working with numerical modeling, scientific computing, and general relativity.
+
+## How to run
+
+pip install -r requirements.txt
+
+python intro_modeling.py
+
+python physical_simulation_example.py
+
+python visualization_example.py
